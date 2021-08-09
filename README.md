@@ -23,3 +23,7 @@ Após clonar o projeto, é necessário atualizar as dependências.
 yarn
 expo start
 ```
+
+### Configurações adicionais
+
+- Criar arquivo *.env* com o conteúdo de *.env.example*

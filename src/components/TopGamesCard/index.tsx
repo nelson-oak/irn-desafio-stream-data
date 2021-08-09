@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { Alert } from 'react-native';
 import { Linking, TouchableOpacity, Image } from 'react-native';
+// TODO
 // import SkeletonContent from 'react-native-skeleton-content';
 import {
   Fade,
@@ -39,6 +40,7 @@ export function TopGamesCard({ url, name, isLoadingTopGames }: TopGamesCardProps
   }, [isLoadingTopGames])
 
   return (
+    // TODO
     // <SkeletonContent
     //   isLoading={isLoading}
     //   boneColor="#1C1C21"
